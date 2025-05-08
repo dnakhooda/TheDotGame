@@ -1,0 +1,55 @@
+body {
+  font-family: monospace;
+  background-color: #000;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  color: white;
+  font-size: 32px;
+  font-family: monospace;
+}
+
+h2 {
+  color: white;
+  font-size: 25px;
+  font-family: monospace;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+  font-family: monospace;
+  font-size: 2em;
+}
+
+.canvas_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 450px;
+}
+
+#container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-width: 800px;
+}
+
+#how_to_play {
+  color: white;
+  font-size: 20px;
+  font-family: monospace;
+}
+
+#canvas{
+  width: 800px;
+  height: 450px;
+  border-radius: 20px;
+}
