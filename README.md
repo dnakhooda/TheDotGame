@@ -1,7 +1,7 @@
 <h1>🔴 The Dot Game 🔵</h1>
 
 <p>
-🔴 The Dot Game 🔵 is a simple 2D web game where your objective is to reach the goal on the right side of the screen. To get there, you must avoid red obstacles. If you touch one, you'll be sent back to the beginning of the level. Reach the goal, and you'll advance to the next level with even more challenging obstacles.
+The Dot Game is a simple 2D web game where your objective is to reach the goal on the right side of the screen. To get there, you must avoid red obstacles. If you touch one, you'll be sent back to the beginning of the level. Reach the goal, and you'll advance to the next level with even more challenging obstacles.
 </p>
 
 <h2>How You Can Play 🎮 </h2>
@@ -9,7 +9,7 @@
 <div align="center">
   <h3>
     <a href="https://danielnakhooda.com/games/TheDotGame/DotGame.html">
-      Click here to play 🔴 The Dot Game 🔵
+      Click here to play The Dot Game
     </a>
   </h3>
 </div>
@@ -17,7 +17,7 @@
 <h2>What Makes This Game Special ✨ </h2>
 
 <p>
-🔴 The Dot Game 🔵 was my first coding project. Though very simple, it is the start of my programming journey.
+The Dot Game was my first coding project. Though very simple, it is the start of my programming journey.
 </p>
 
 <h2>Screenshots 📸</h2>
